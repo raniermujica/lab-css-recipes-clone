@@ -1,0 +1,51 @@
+.opening-image img {
+    height: 1200px;
+    position: relative;
+}
+
+.over-text {
+    position: absolute;
+    top: 500px;
+    left: 600px;
+    color: white;
+    font-size: 90px;
+}
+
+body {
+    margin: 10px;
+    
+}
+
+article {
+    margin: 100px;
+    font-size: 30px;
+}
+
+div {
+    width: 10px;
+    padding: 80px;
+    
+}
+
+h3 {
+    font-size: 30px;
+    margin: 100px;
+
+
+}
+
+ul {
+    font-size: 20px;
+    margin: 100px;
+}
+
+
+ol {
+    font-size: 20px;
+    margin: 100px;
+
+}
+
+section {
+    padding: px;
+}
